@@ -1,0 +1,15 @@
+E:\Educação\C# e dotNet\Work\DIO.Bank\bin\Debug\net6.0\DIO.Bank.exe
+E:\Educação\C# e dotNet\Work\DIO.Bank\bin\Debug\net6.0\DIO.Bank.deps.json
+E:\Educação\C# e dotNet\Work\DIO.Bank\bin\Debug\net6.0\DIO.Bank.runtimeconfig.json
+E:\Educação\C# e dotNet\Work\DIO.Bank\bin\Debug\net6.0\DIO.Bank.dll
+E:\Educação\C# e dotNet\Work\DIO.Bank\bin\Debug\net6.0\DIO.Bank.pdb
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.AssemblyReference.cache
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfoInputs.cache
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\DIO.Bank.AssemblyInfo.cs
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\DIO.Bank.csproj.CoreCompileInputs.cache
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\DIO.Bank.dll
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\refint\DIO.Bank.dll
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\DIO.Bank.pdb
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\DIO.Bank.genruntimeconfig.cache
+E:\Educação\C# e dotNet\Work\DIO.Bank\obj\Debug\net6.0\ref\DIO.Bank.dll
